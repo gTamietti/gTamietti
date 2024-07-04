@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou Gabriel Tamietti Mauro, estudante de Ciência da Computação, apaixonado por tecnologia e inovação. Meu objetivo é me tornar um desenvolvedor Full Stack, com um interesse especial em **desenvolvimento web**. Adoro explorar novas tecnologias e ferramentas para criar soluções eficientes e inovadoras.
+Sou Gabriel Tamietti Mauro, estudante de Ciência da Computação, apaixonado por tecnologia e inovação. Meu objetivo é me tornar um desenvolvedor Full Stack, com um interesse especial em **Inteligência Artificial e automações**. Adoro explorar novas tecnologias e ferramentas para criar soluções eficientes e inovadoras.
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web**.
 - 👯 Estou buscando colaborar em projetos de **desenvolvimento web**.
