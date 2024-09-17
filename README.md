@@ -18,5 +18,5 @@ Sou Gabriel Tamietti Mauro, estudante de Ciência da Computação, apaixonado po
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gTamietti&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gTamietti&show_icons=true&theme=dark&count_private=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gTamietti&layout=compact&theme=dark)
